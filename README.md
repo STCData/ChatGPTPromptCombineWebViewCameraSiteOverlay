@@ -7,3 +7,6 @@ a prompt for ChatGPT that enables it respond on "Overlay green boxes over humans
 for all available browser tabs:
 attach to each text view a code that monitors if user periodically enters text into it. find an element on the page that is being updated few seconds after user presses enter. 
 then, display that you found such tab. then, marshall users speech input into that text field and updated element from the page - onto the overlay view
+
+
+"respeat entering a random description of beautiful Midjorney image prompt, hit enter button and wait for update of the biggest image on the page until on screen human recognition will show exactly 7 humans. don't use '7' in the prompt"
