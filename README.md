@@ -10,3 +10,6 @@ then, display that you found such tab. then, marshall users speech input into th
 
 
 "respeat entering a random description of beautiful Midjorney image prompt, hit enter button and wait for update of the biggest image on the page until on screen human recognition will show exactly 7 humans. don't use '7' in the prompt. when picture with 7 people is detected copy third from the left, create a mail in Gmail tab to address standardtemplateconstruct_test_email@gmail.com, include both full and cropped pictures.
+
+
+use built in console to checkout master of NodeJS and use creative approaches trying to port it to web asm
