@@ -2,3 +2,8 @@ a prompt for ChatGPT that enables it respond on "Overlay green boxes over humans
 
 
 "create a text field and an preview box, each takes half of the screen. when text in text field is edited, markdown or mermaid or latex is rendered in the preview box. speech of user and editing instructions that you will receive are transformed into the code that manipulates text in the box accordingly to instructions"
+
+
+for all available browser tabs:
+attach to each text view a code that monitors if user periodically enters text into it. find an element on the page that is being updated few seconds after user presses enter. 
+then, display that you found such tab. then, marshall users speech input into that text field and updated element from the page - onto the overlay view
